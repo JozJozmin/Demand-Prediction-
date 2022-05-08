@@ -13,3 +13,4 @@ The main objective of the problem is to develop the machine learning approach to
 
 ## Evaluation metric
 RMSE score
+# Approach
