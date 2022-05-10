@@ -39,6 +39,10 @@ Following are the results obtained:
 
 The highly correlated features are linearly dependent and hence have same effect on the dependent variable. So I dropped one of the two features which are highly correlated.  In this dataset I have dropped {'dayofyear', 'quarter', 'weekofyear'}
 
+## Modeling 
+I have tried various ML models such as Linear Regression, Decision Tree Regressor, Random Forest Regressor, XG boost and LGBM Regressor through hyper parameter tuning through GridSearchCV and found out LGBM is giving RMSE value of 32.09503388599971 which is least compared to other models.
+
+
 
 
 
